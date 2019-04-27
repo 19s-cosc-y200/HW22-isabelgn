@@ -71,8 +71,7 @@ h4{
     text-transform: capitalize;
     border: bottom;
     padding-bottom: 0;
-    float:left;
-    clear:left;
+    
 }
 main{
     padding-left: 0;
@@ -111,7 +110,7 @@ main dl{
     padding-left:3em;
     padding-right:2em;
 }
-details{
+.details{
     padding-left: 20%;
     padding-right: 20%;
     overflow: auto;
